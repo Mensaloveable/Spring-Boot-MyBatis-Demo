@@ -65,7 +65,7 @@ Follow these steps to set up and run the project on your local machine:
 Clone this repository to your local machine using Git:
 
 ```shell
-git clone https://github.com/your-username/spring-boot-mybatis-demo.git
+git clone https://github.com/Mensaloveable/Spring-Boot-MyBatis-Demo
 cd spring-boot-mybatis-demo
 ```
 
@@ -119,5 +119,3 @@ Contributions to this project are welcome. To contribute, please follow these st
 
 5. **Submit a pull request to the main repository.**
 
-# Spring-Boot-MyBatis-Demo
-# Spring-Boot-MyBatis-Demo
